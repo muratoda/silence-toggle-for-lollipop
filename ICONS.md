@@ -1,0 +1,1 @@
+Icons generated using [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/index.html) by Roman Nurik, available under a [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) license.
